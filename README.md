@@ -1,6 +1,6 @@
 # Spider
 爬取网页指定深度所有URL
-##### 用法示例c
+##### 用法示例
 python3 spider.py -u https://www.bilibili.com/ -d 5 -f 路径 -l 4  -k html
 
 - -u --url: 指定网址（必要参数）
